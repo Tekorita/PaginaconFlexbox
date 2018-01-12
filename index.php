@@ -32,7 +32,7 @@
 				Es un fichero en javascript que automáticamente nos agrega estos prefijos a las propiedades css que lo necesiten, simplificando el código ya que sólo debemos escribir la propiedad una vez, por tanto nos ahorra mucho tiempo y hace nuestro código css más fácil de entender.
 			</article>
 			<?php
-				define("CONSTANTE", "Hola mundito.");
+				define("CONSTANTE", "Hola munditototete.");
 				echo CONSTANTE; // muestra "Hola mundo."
 				
 			?>
