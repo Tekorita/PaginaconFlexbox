@@ -10,6 +10,8 @@
 	<!-- <link href='https://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>	 -->
 </head>
 <body>
+
+	
 	<div class="contenedor">
 		<header>
 			<div class="logo">
@@ -29,6 +31,11 @@
 				<h2 class="titulo">¿Que es Prefix-free?</h2>
 				Es un fichero en javascript que automáticamente nos agrega estos prefijos a las propiedades css que lo necesiten, simplificando el código ya que sólo debemos escribir la propiedad una vez, por tanto nos ahorra mucho tiempo y hace nuestro código css más fácil de entender.
 			</article>
+			<?php
+				define("CONSTANTE", "Hola mundito.");
+				echo CONSTANTE; // muestra "Hola mundo."
+				
+			?>
 			<article>
 				<h2 class="titulo">¿Cuales son sus caracteristicas?</h2>
 				Como vemos esta utilidad suena muy interesante y a pesar de tener varias restricciones, la mayoría de estas se pueden resolver, para ello basta con seguir unas pequeñas guías que nos facilitan en su web oficial. Por ejemplo en esta guía nos explican cómo habilitar fácilmente el testeo local en Chrome y Opera.
