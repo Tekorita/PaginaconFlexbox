@@ -38,7 +38,7 @@
 			?>
 			<article>
 				<h2 class="titulo">¿Cuales son sus caracteristicas?</h2>
-				Como vemos esta utilidad suena muy interesante y a pesar de tener varias restricciones, la mayoría de estas se pueden resolver, para ello basta con seguir unas pequeñas guías que nos facilitan en su web oficial. Por ejemplo en esta guía nos explican cómo habilitar fácilmente el testeo local en Chrome y Opera.
+				Como vemos esta utilidad AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA suena muy interesante y a pesar de tener varias restricciones, la mayoría de estas se pueden resolver, para ello basta con seguir unas pequeñas guías que nos facilitan en su web oficial. Por ejemplo en esta guía nos explican cómo habilitar fácilmente el testeo local en Chrome y Opera.
 			</article>
 		</section>
 
